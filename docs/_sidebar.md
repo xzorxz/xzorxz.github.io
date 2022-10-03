@@ -21,7 +21,7 @@
 
 - JavaScript
 
-  - [Javascript 快速入门](html5/02_Javascript/)
+  - [Javascript 快速入门](javascript/01-/README.md)
   - [ES6 常用语法梳理](javascript/02_ES6/)
 
 - Vue
@@ -36,4 +36,4 @@
   - [NodeJS 安装](other/03_XXXX/)
 
 - 后续发展 JavaEE
-  - [JavaEE 快速入门](javaEE/01_java/)
+  - [JavaEE 快速入门](javaEE/01_java/README.md)
