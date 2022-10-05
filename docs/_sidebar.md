@@ -28,6 +28,8 @@
 
 - 每天小作文
   - [阶段四_vue-day02](everyday/02_vue.md)
+  - [阶段四_vue-day03](everyday/03_vue.md)
+  
 
 - 实用技能
   - [使用 docsify 搭建笔记博客](other/01_Docsify/ "使用 docsify 搭建笔记博客")
