@@ -27,8 +27,12 @@
 - Vue
 
 - 每天小作文
+  - [阶段四_vue-day01](everyday/01_vue.md)
   - [阶段四_vue-day02](everyday/02_vue.md)
+  - [阶段四_vue-day02-预习](everyday/02_vue_yuxi.md)
   - [阶段四_vue-day03](everyday/03_vue.md)
+  - [阶段四_vue-day04](everyday/04_vue.md)
+  - [阶段四_vue-day05-复习](everyday/05_vue_fuxi.md)
   
 
 - 实用技能
