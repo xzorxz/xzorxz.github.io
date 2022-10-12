@@ -33,6 +33,8 @@
   - [阶段四_vue-day03](everyday/03_vue.md)
   - [阶段四_vue-day04](everyday/04_vue.md)
   - [阶段四_vue-day05-复习](everyday/05_vue_fuxi.md)
+  - [阶段四_vue-day06](everyday/06_vue.md)
+  - [阶段四_vue-day06-复习](everyday/06_vue_fuxi.md)
   
 
 - 实用技能
