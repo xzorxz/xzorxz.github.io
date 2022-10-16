@@ -12,4 +12,4 @@
 
 [GitHub](https://github.com/xzorxz)
 [Get Started](README)
-[Wechat]()
+[Debug](debug/Debug.md)
