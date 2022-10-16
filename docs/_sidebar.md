@@ -40,8 +40,7 @@
   - [阶段四\_vue-day09](everyday/09_vue.md)
 
 -Debug 
-  -[收集的 bug](everyday/Debug.md)
-
+  -[收集的bug\](debug/Debug.md)
 - 实用技能
 
   - [使用 docsify 搭建笔记博客](other/01_Docsify/ "使用 docsify 搭建笔记博客")
