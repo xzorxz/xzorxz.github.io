@@ -44,5 +44,70 @@ state用来存放共享变量
 
 
 
+### 复习
 
+**prop验证** 
+
+最基本的类型检查 直接跟Number 或者其他
+
+多个类型的检查[String,Number,Array]等
+
+必填的字符串
+
+```vue
+props{
+type:String
+required:ture//这里指必填的字符串
+}
+```
+
+带有默认值的数据
+
+```
+props:{
+type:Number,
+default:100  //默认值 各种类型
+}
+```
+
+带有默认值的对象
+
+```
+props：{
+type:Object，
+default:function(){
+return {message:hello}
+}
+}
+```
+
+**自定义验证函数**
+
+```
+props:{
+validator :function(value) {
+//下列的字符串必须匹配一个
+return['success','warning','danger'].includes(value)
+}
+}
+```
+
+**自定义指令**
+
+全局注册
+
+需要在man.js中设置为
+
+```
+Vue.directive('xxx',{
+inserted(el,binding) {
+ el.xxx = binging.value //el和binging是默认属性 el代表了elemment binging是传输的值
+}，
+update(el,binging) {
+el.xxx = binging.value
+}
+})
+```
+
+局部注册需要在页面写directives
 

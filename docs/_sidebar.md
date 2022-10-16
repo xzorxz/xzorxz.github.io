@@ -27,17 +27,23 @@
 - Vue
 
 - 每天小作文
-  - [阶段四_vue-day01](everyday/01_vue.md)
-  - [阶段四_vue-day02](everyday/02_vue.md)
-  - [阶段四_vue-day02-预习](everyday/02_vue_yuxi.md)
-  - [阶段四_vue-day03](everyday/03_vue.md)
-  - [阶段四_vue-day04](everyday/04_vue.md)
-  - [阶段四_vue-day05-复习](everyday/05_vue_fuxi.md)
-  - [阶段四_vue-day06](everyday/06_vue.md)
-  - [阶段四_vue-day06-复习](everyday/06_vue_fuxi.md)
-  
+  - [阶段四\_vue-day01](everyday/01_vue.md)
+  - [阶段四\_vue-day02](everyday/02_vue.md)
+  - [阶段四\_vue-day02-预习](everyday/02_vue_yuxi.md)
+  - [阶段四\_vue-day03](everyday/03_vue.md)
+  - [阶段四\_vue-day04](everyday/04_vue.md)
+  - [阶段四\_vue-day05-复习](everyday/05_vue_fuxi.md)
+  - [阶段四\_vue-day06](everyday/06_vue.md)
+  - [阶段四\_vue-day06-复习](everyday/06_vue_fuxi.md)
+  - [阶段四\_vue-day07](everyday/07_vue.md)
+  - [阶段四\_vue-day08](everyday/08_vue.md)
+  - [阶段四\_vue-day09](everyday/09_vue.md)
+
+-Debug 
+  -[收集的 bug](everyday/Debug.md)
 
 - 实用技能
+
   - [使用 docsify 搭建笔记博客](other/01_Docsify/ "使用 docsify 搭建笔记博客")
   - [超实用文字图片素材服务](other/02_Lorem/)
   - [Typora](other/03_Typora/)
