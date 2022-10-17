@@ -4,13 +4,13 @@
 
 ##### 1.node和npm版本号不匹配导致安装vant或者vant相关插件失败
 
-![vue-01.jpg](/debug/assets/vue-01.jpeg)
+![vue-01.jpg](/Users/xiaozhang/Desktop/xzorxz.github.io/docs/debug/assets/vue-01.jpeg)
 
 解决方案：在命令后面添加 --legacy-peer-deps
 
 ##### 2.忘记给按需导出的代码添加大括号
 
-![vue-02.jpg](/debug/assets/vue-02.jpeg)
+![vue-02.jpg](/Users/xiaozhang/Desktop/xzorxz.github.io/docs/debug/assets/vue-02.jpeg)
 
 解决方案：给按需导出的代码添加大括号
 
